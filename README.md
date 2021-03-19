@@ -1,2 +1,2 @@
-# BlogTest
-Un blog a modo de prueba para aprender Git y GitHub.
+# TestBlog
+Un blog de Test para git y github
